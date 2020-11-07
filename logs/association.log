@@ -1,0 +1,15 @@
+2020-11-06 21:42:30$INFO $com.ldujsjxh.StartApp$16$main$system		∆Ù∂Ø”¶”√
+2020-11-06 21:42:30$INFO $org.springframework.boot.StartupInfoLogger$50$logStarting$Starting StartApp on Surface-Of-Alaskyed with PID 18936 (D:\Development\ldujsjxh-java-deploy\ldujsjxh-java.jar started by Alaskyed in D:\Development\ldujsjxh-java-deploy)
+2020-11-06 21:42:30$INFO $org.springframework.boot.SpringApplication$675$logStartupProfileInfo$No active profile set, falling back to default profiles: default
+2020-11-06 21:42:33$INFO $org.springframework.boot.web.embedded.tomcat.TomcatWebServer$90$initialize$Tomcat initialized with port(s): 8080 (http)
+2020-11-06 21:42:33$INFO $org.apache.juli.logging.DirectJDKLog$173$log$Initializing ProtocolHandler ["http-nio-8080"]
+2020-11-06 21:42:33$INFO $org.apache.juli.logging.DirectJDKLog$173$log$Starting service [Tomcat]
+2020-11-06 21:42:33$INFO $org.apache.juli.logging.DirectJDKLog$173$log$Starting Servlet engine: [Apache Tomcat/9.0.16]
+2020-11-06 21:42:33$INFO $org.apache.juli.logging.DirectJDKLog$173$log$The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Applications\jdk1.8.0_271\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:\Applications\Python\Python3.9\Scripts\;C:\Applications\Python\Python3.9\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\Git\cmd;C:\Program Files\Pandoc\;C:\Applications\jdk1.8.0_271\bin;C:\Applications\jdk1.8.0_271\jre\bin;C:\Users\Spartan\AppData\Local\Microsoft\WindowsApps;C:\Program Files\Bandizip\;C:\Users\Spartan\AppData\Local\GitHubDesktop\bin;C:\Applications\IntelliJ IDEA 2020.1\bin;;C:\Applications\Microsoft VS Code\bin;.]
+2020-11-06 21:42:33$INFO $org.apache.juli.logging.DirectJDKLog$173$log$Initializing Spring embedded WebApplicationContext
+2020-11-06 21:42:33$INFO $org.springframework.boot.web.servlet.context.ServletWebServerApplicationContext$296$prepareWebApplicationContext$Root WebApplicationContext: initialization completed in 2919 ms
+2020-11-06 21:42:34$INFO $org.springframework.scheduling.concurrent.ExecutorConfigurationSupport$171$initialize$Initializing ExecutorService 'applicationTaskExecutor'
+2020-11-06 21:42:34$INFO $org.apache.juli.logging.DirectJDKLog$173$log$Starting ProtocolHandler ["http-nio-8080"]
+2020-11-06 21:42:34$INFO $org.springframework.boot.web.embedded.tomcat.TomcatWebServer$204$start$Tomcat started on port(s): 8080 (http) with context path ''
+2020-11-06 21:42:34$INFO $org.springframework.boot.StartupInfoLogger$59$logStarted$Started StartApp in 4.571 seconds (JVM running for 5.959)
+2020-11-06 21:42:39$INFO $org.springframework.scheduling.concurrent.ExecutorConfigurationSupport$208$shutdown$Shutting down ExecutorService 'applicationTaskExecutor'
